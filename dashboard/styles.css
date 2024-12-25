@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    height: 100vh;
+}
+
+.nav-link {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    padding: 10px 15px;
+}
+
+.nav-link.active {
+    background-color: #f0f8ff;
+    color: #007bff;
+}
+
+.card {
+    border-radius: 8px;
+    border: none;
+}
+
+.card-body h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+form-select-sm {
+    font-size: 0.9rem;
+}
+
+
+.card-body p {
+    font-size: 18px;
+    margin: 0;
+}
